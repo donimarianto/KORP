@@ -1,0 +1,25 @@
+.landing {
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
+    url(./aset/office.JPG);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+.test {
+  padding-top: 200px;
+}
+
+.btn {
+  color: white;
+  border: 2px solid;
+  border-radius: 50px;
+  width: 150px;
+  border-radius: 30px;
+}
